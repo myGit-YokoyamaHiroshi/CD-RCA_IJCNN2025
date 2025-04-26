@@ -4,7 +4,8 @@ There are sample scripts of causal discovery-based root-cause analysis algorithm
 
 # References<br>
 Hiroshi Yokoyama, Ryusei Shingaki, Kaneharu Nishino, Shohei Shimizu, and Thong Pham, 
-Causal-discovery-based root-cause analysis and its application in time-series prediction error diagnosis, Arxiv preprint, 2024. Accepted in  Proc. IJCNN2025
+Causal-discovery-based root-cause analysis and its application in time-series prediction error diagnosis, Arxiv preprint, 2024. Accepted in  Proc. IJCNN2025 <br>
+doi: https://doi.org/10.48550/ARXIV.2411.06990
 
 # Cite<br>
 
