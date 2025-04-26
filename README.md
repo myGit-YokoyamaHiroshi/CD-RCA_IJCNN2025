@@ -11,7 +11,7 @@ doi: https://doi.org/10.48550/ARXIV.2411.06990
 
 Please cite our repository if you use this code in your own work:
 ```
-@article{Yokoyama2025,
+@article{Yokoyama2024,
 author = {Hiroshi Yokoyama, Ryusei Shingaki, Kaneharu Nishino, Shohei Shimizu, and Thong Pham
 },
 doi = {https://doi.org/10.48550/ARXIV.2411.06990},
