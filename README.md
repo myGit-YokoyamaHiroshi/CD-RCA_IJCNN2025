@@ -1,6 +1,7 @@
 # CD-RCA_IJCNN2025
 There are sample scripts of causal discovery-based root-cause analysis algorithms. 
 <br>
+<img src="./fig_proposed_method.png" width=100%>
 
 # References<br>
 Hiroshi Yokoyama, Ryusei Shingaki, Kaneharu Nishino, Shohei Shimizu, and Thong Pham, 
